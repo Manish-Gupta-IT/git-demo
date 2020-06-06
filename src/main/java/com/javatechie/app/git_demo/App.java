@@ -13,6 +13,8 @@ public void addData(String data){
 		System.out.println("Hare Krishna");
 	}
 	
+	public void newadded(){
+		System.out.println("Hari Bol");
 }
 
     public static void main( String[] args )
